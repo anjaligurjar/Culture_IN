@@ -25,7 +25,7 @@ export default function App() {
           <Route excat path="/About" element={<About />} />
           <Route excat path="/Events" element={<Events />} />
           <Route excat path="/Contact" element={<Contact />} />
-          <Route excat path="/" element={<Home />} />
+          <Route excat path="/Home" element={<Home />} />
           <Route excat path="/Login" element={<Login />} />
           <Route excat path="/Sign_up" element={<Sign_up />} />
         </Routes>
