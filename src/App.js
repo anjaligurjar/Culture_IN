@@ -6,7 +6,7 @@ import About from "./components/About"
 import Home from "./pages/Home"
 import Sign_up from "./pages/Sign_up"
 import Login from "./pages/Login"
-import Events from "./components/Events"
+import Blogs from "./components/Blogs"
 import Contact from "./components/Contact"
 
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
@@ -21,9 +21,8 @@ export default function App() {
       <Router>
         <Navbar />
         <Routes>
-
           <Route excat path="/About" element={<About />} />
-          <Route excat path="/Events" element={<Events />} />
+          <Route excat path="/Blogs" element={<Blogs/>} />
           <Route excat path="/Contact" element={<Contact />} />
           <Route excat path="/Home" element={<Home />} />
           <Route excat path="/Login" element={<Login />} />

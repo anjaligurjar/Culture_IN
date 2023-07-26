@@ -9,7 +9,7 @@ export default function Navbar() {
     </div>
      <Link to ="About"><i className="fa fa-fw fa-tree"></i>About</Link>
      <div></div>
-     <Link to ="Events"><i className="fa fa-fw fa-bell"></i>Events</Link>
+     <Link to ="Blogs"><i className="fa fa-fw fa-bell"></i>Blogs</Link>
      <div></div>
      <Link to ="Contact"><i className="fa fa-fw fa-phone"></i>Contact</Link>
      <Link to ="Login"><i className="fa fa-fw fa-user"></i>Login</Link>
