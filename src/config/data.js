@@ -47,3 +47,4 @@ export const blogList=[
     cover:'assets/images/env.jpg'
 }
 ]
+

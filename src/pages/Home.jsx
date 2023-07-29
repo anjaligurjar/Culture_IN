@@ -1,6 +1,6 @@
 
 import React from 'react'
-import Navbar from "./Nav"
+import Navbar from "./Homenav/Nav"
 
 export default function Home() {
   const handleClickFunction = (e) => {
@@ -24,8 +24,10 @@ export default function Home() {
     <div>
       <div className='cont2'>
         <Navbar />
-        <h3> Welcome  our  Home</h3>
+
+        <h3> Welcome our Home</h3>
         <button className='btn' onClick={handleClickFunction}>Click me</button>
+        
         
       </div>
     </div>
