@@ -22,7 +22,20 @@ width: 100%;
   padding-top: 8px;
   position: absolute;
 
+
   text-align: center;
+}
+.style{
+  background-color: aliceblue;
+ 
+
+}
+.setting {
+ grid-auto-flow: row;
+height: 100vh;
+animation-delay: 500;
+animation-duration: 250;
+background-image: url(/src/Images/waterfall.jpg)
 }
 
 .nav {

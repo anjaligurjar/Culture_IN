@@ -1,22 +1,15 @@
 import React from 'react'
-import Slider from'./Bg'
+import 
+Slider from "./Slider/Slider"
+
+
 export default function Nature() {
   return (
     <div>
-      <Slider />
-      <h4>Welcome Nature</h4>
-<div className='row'> 
-<div className="colunm">
-<div className='card'> 
-<div className=""></div>
-
-
-
-
-</div>
-
-</div>
-</div>
+  <h2> Welc_come__HEre</h2>
+  <Slider />
+  
+     
 
     </div>
   )
