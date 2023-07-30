@@ -6,16 +6,15 @@
 export const sliderImage=[
 {
     title:"Nature",
-    descreption:"about nature",
-    urls: 'assets/images/festivals.jps'
+    description:"about nature",
+    url:'/assets/images/festivals.jpg'
 }
 ,
-{
+{url:'/assets/images/pictures.jpg',
     title:"Spirituality",
-    descreption:"about nature",
-    urls: 'assets/images/pictures.jps'
+    description:"About our ",
+   
 }
-
 
 
 ]

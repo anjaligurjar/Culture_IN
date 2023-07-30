@@ -9,7 +9,7 @@ export default function Nature() {
   <h2> Welc_come__HEre</h2>
   <Slider />
   
-     
+     <h1> we have  many place of  here the </h1>
 
     </div>
   )
